@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 48" fill="none">
+  <rect width="48" height="48" rx="12" fill="#141414" stroke="#262626" stroke-width="1.5"/>
+  <path d="M15 17.5C15 16.1193 16.1193 15 17.5 15H19.3L20.8 12.8C21.26 12.12 22.03 11.7 22.86 11.7H25.14C25.97 11.7 26.74 12.12 27.2 12.8L28.7 15H30.5C31.8807 15 33 16.1193 33 17.5V30.5C33 31.8807 31.8807 33 30.5 33H17.5C16.1193 33 15 31.8807 15 30.5V17.5Z" stroke="#00BFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="24" cy="24" r="4.5" stroke="#FF69B4" stroke-width="2"/>
+  <circle cx="29.5" cy="18.5" r="1" fill="#00BFFF"/>
+  <text x="58" y="29" fill="#FFFFFF" font-family="Inter, sans-serif" font-weight="900" font-size="22" letter-spacing="-0.8">NHAT MEL</text>
+  <text x="59" y="41" fill="#00BFFF" font-family="Inter, sans-serif" font-weight="600" font-size="9.5" letter-spacing="2.2">PHOTOGRAPHY</text>
+</svg>
